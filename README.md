@@ -2,6 +2,8 @@
 
 In this final problem set, you will get to explore a different programming language of your choice and make your own unique creation using an application of Java, such as Processing, JavaFX, or Android!
 
+You will turn in a Google doc for Problem 5-0 and attach a JavaFX project, Android project, or Processing project for Problem 5-1 (as well as extra credit Problem 5-2).
+
 ## Problem 5-0: OOP Comparison
 
 Write 1-2 paragraphs (6-10 sentences) comparing object-oriented programming Java and another language that supports OOP.
@@ -39,7 +41,7 @@ Requirements:
 
 If you do additional research, cite your sources -- just URLs are OK. You can add them to the comments.
 
-## Extra Credit: Simon Game
+## Problem 5-2: Simon Game [Optional Challenge]
 
 Recreate the classic Simon Game with Java on Processing or Android!
 
