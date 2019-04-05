@@ -38,7 +38,7 @@ Requirements:
 * Projects should be cohesive and have a unifying concept (e.g. instead of random shapes and events in Processing, make a game or recognizable picture).
 * **JavaFX** projects should have a layout (VBox, HBox, GridPane), at least two buttons, and at least two colors. You will likely do additional research for JavaFX.
 * **Processing** projects should use a loop, random, at least three shapes, at least two colors, at least one event (e.g. keyPressed), and a text element.
-* **Android** projects should use at least two of the following features: animations, sound, slider, ListView, timer, a second activity, maps, data persistence. (We'll cover all of these in class.) For example, you could make a Whack a Mole game with a timer and score, a pomodoro timer, or a travel app.
+* **Android** projects should use at least two of the following features: animations, sound, slider, ListView, timer, a second activity, maps, data persistence. (We'll cover most of these in class, and links will be provided of the topics we don't cover.) For example, you could make a Whack a Mole game with a timer and score, a pomodoro timer, or a travel app.
 
 If you do additional research, cite your sources -- just URLs are OK. You can add them to the comments.
 
