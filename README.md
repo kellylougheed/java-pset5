@@ -22,7 +22,7 @@ Points of comparison (try to touch on each of these as your language choices all
 * Use of the this/self keyword
 * Constructors and other built-in methods
 * Inheritance (Is it a feature? Syntax for calling methods, calling to super, overriding? Is multiple inheritance allowed? Are there abstract classes?)
-* Static properties and methods (Are they allowed?)
+* Static properties and methods (Are they features?)
 * Stylistic conventions (e.g. capitalizing class names, underscores, etc)
 * Other language quirks you find in your research (e.g. lazy stored properties & setter/getter shortcuts in Swift)
 
