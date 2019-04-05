@@ -13,7 +13,7 @@ Suggested languages:
 * Python - practical; lots of science/math applications
 * PHP - quirky; useful in web development
 * JavaScript - limited OOP; relevant to web development
-* C++ - a little vintage; relevant for graphics and games
+* C++ - older and more challenging; relevant for graphics and games
 * Swift - robust OOP; language that powers iPhones
 * Any other language with OOP that you are curious about!
 
