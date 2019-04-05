@@ -20,6 +20,7 @@ Suggested languages:
 Points of comparison (try to touch on each of these as your language choices allow):
 
 * Use of the this/self keyword
+* Constructors and other built-in methods
 * Inheritance (Is it a feature? Syntax for calling methods, calling to super, overriding? Is multiple inheritance allowed? Are there abstract classes?)
 * Static properties and methods (Are they allowed?)
 * Stylistic conventions (e.g. capitalizing class names, underscores, etc)
