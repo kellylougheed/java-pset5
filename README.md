@@ -6,7 +6,7 @@ You will turn in a Google doc for Problem 5-0 and attach a JavaFX project, Andro
 
 ## Problem 5-0: OOP Comparison
 
-Write 1-2 paragraphs (6-10 sentences) comparing object-oriented programming Java and another language that supports OOP.
+Write 1-2 paragraphs (~10 sentences) comparing object-oriented programming Java and another language that supports OOP.
 
 Suggested languages:
 
