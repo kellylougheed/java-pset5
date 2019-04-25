@@ -54,7 +54,7 @@ Recreate the classic Simon Game with Java on Processing or Android!
 
 First, play the [Simon Game](http://www.freesimon.org/) online to get an idea of how it works.
 
-The requirements for your game will be a little simpler. Your game should:
+You can go about recreating this game however you like, but here is a suggested strategy:
 
 * Display four large buttons representing the four colors of the game (green, red, yellow, blue).
 * Have a "GO" button that the user can press to start.
