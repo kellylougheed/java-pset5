@@ -42,7 +42,7 @@ Guidelines:
 * Projects should be cohesive and have a unifying concept (e.g. instead of random shapes and events in Processing, make a game or recognizable picture).
 * **JavaFX** projects should have a layout (VBox, HBox, GridPane), at least two buttons, and at least two colors. You will likely do additional research for JavaFX.
 * **Processing** projects should use a loop, random, at least three shapes, at least two colors, at least one event (e.g. keyPressed), and a text element.
-* **Android** projects should use at least two of the following features: animations, sound, slider, ListView, timer, a second activity, maps, data persistence. (We'll cover many of these in class; resources will be available for topics not covered.)
+* **Android** projects should use at least two of the following features: animations, [sound](https://docs.google.com/document/d/1lIRr-T9TvbR5eVwTapG4B_egvdU7jBTwm5a4iXOAL80/), slider, ListView, timer, a second activity, data persistence. (We'll cover many of these in class; resources will be available for topics not covered.)
 
 If you have an idea for a project but it does not fit within the guidelines, check with Ms. Lougheed for approval.
 
@@ -63,3 +63,10 @@ You can go about recreating this game however you like, but here is a suggested 
 * As the user presses the color buttons, the program should track whether the user pressed the buttons in the same order as the original text.
 * When the color buttons have been pressed four times, the program should report whether the user got the pattern correct or not. (You can even keep score!)
 * Repeat!
+
+## Problem 5-3: Maps [Optional Challenge]
+
+Make an app of your choice that uses the maps feature!
+
+Check out the [Android Maps Tutorial](https://docs.google.com/document/d/10wnWFiyd6N2kykkw0Ow2qK5cn80GdcOlxIhlcvponTc/) to familiarize yourself with how maps work.
+
